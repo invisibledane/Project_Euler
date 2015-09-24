@@ -12,6 +12,7 @@ value = 0
 end
 
 # RUNNING CODE STARTS HERE
+# 600,851,475,143
 number = 600851475143
 largestPrime = 0
 
